@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0.1f2</Version>
+<Path>
+<Name>Path to STL File</Name>
+<Val>C:\Users\Marcin\SkyDrive\Dokumenty\Quadrocopter\LabVIEW 3D Model\Zlozenie-skomplikowane.stl</Val>
+</Path>
+</LVData>
