@@ -19,6 +19,7 @@
 			<Item Name="3D Model Status.ctl" Type="VI" URL="../Type Definitions/3D Model Status.ctl"/>
 			<Item Name="Settings File Name.ctl" Type="VI" URL="../Type Definitions/Settings File Name.ctl"/>
 		</Item>
+		<Item Name="4 byte data to number.vi" Type="VI" URL="../4 byte data to number.vi"/>
 		<Item Name="from data to rad.vi" Type="VI" URL="../from data to rad.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
