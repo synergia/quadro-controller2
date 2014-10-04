@@ -22,6 +22,7 @@
 		<Item Name="4 byte data to number.vi" Type="VI" URL="../4 byte data to number.vi"/>
 		<Item Name="from data to rad.vi" Type="VI" URL="../from data to rad.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Send.vi" Type="VI" URL="../Bluetooth/Send.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
